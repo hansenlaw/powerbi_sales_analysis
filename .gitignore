@@ -1,0 +1,21 @@
+# Claude Code
+.claude/
+
+# Draft files
+*_Draft.md
+Portfolio_Notion.md
+
+# PowerPoint files
+*.pptx
+
+# Office temporary files
+~$*
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
